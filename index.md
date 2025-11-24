@@ -1,9 +1,12 @@
-# Hello Github
-
+# Headers
+## Hello Github
 ###### (reps)
+
+# Images
 
 ![AB, Moments before Disaster](https://i.ytimg.com/vi/YnPVsCuDy5s/maxresdefault.jpg)
 
+# Code Blocks
 ```Rust
 // Open in another tab
 let mut search_state = SearchState::new(self, self.build_doctored_book(shared_books)?)?;
@@ -16,3 +19,11 @@ let calculation_function = calculate::build_calculation_function(
     self.cex_side.is_buy(),
 );
 ```
+
+# Checklists
+
+- [ ] [GitHub Pages](https://github.com/skills/github-pages)
+- [ ] https://finm-32900.github.io/HW1/case_study_atlanta_fed_wage_growth_tracker.html
+- [ ] ???
+- [ ] Profit
+
